@@ -1,0 +1,17 @@
+{
+  "database": "data/negocios.sqlite3",
+  "output": "outputs/cadmo/seguimiento.xlsx",
+  "overpass_url": "https://overpass-api.de/api/interpreter",
+  "overpass_cache_hours": 24,
+  "max_candidates": 2000,
+  "max_pages": 2,
+  "request_timeout": 20,
+  "domain_delay": 2.0,
+  "user_agent": "CadmoAnalista/0.1 (+https://www.cadmo.com.ar)",
+  "ollama_url": "http://127.0.0.1:11434",
+  "ollama_model": "qwen3:4b",
+  "ollama_timeout": 180,
+  "search_enabled": false,
+  "search_storage_rights_confirmed": false,
+  "excel_runtime": ".runtime/excel.json"
+}

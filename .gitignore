@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.egg-info/
+.env
+config.local.json
+data/
+outputs/
+logs/
+.runtime/
+node_modules/
+
